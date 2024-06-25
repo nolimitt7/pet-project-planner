@@ -41,7 +41,7 @@ class _TasksScreenState extends State<TasksScreen> {
             child: Scaffold(
           backgroundColor: kWhiteColor,
           appBar: CustomAppBar(
-            title: 'Hi Jerome',
+            title: 'My planner!',
             showBackArrow: false,
             actionWidgets: [
               PopupMenuButton<int>(
